@@ -29,7 +29,7 @@ deployments — and the unglamorous parts that decide whether something survives
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **Price Tracker** | Tracks Apple reseller pricing across stores, keeps full price history, ships a comparison matrix and an operational scraper console. | Next.js · TypeScript · cheerio · REST |
-| **Logistics ERP** | Ten-module freight workspace: orders, quotes, dispatch, carriers, claims, documents, finance, tracking, reports. | TanStack Start · TypeScript · Cloudflare |
+| **Logistics ERP** | Eleven-module freight workspace: orders, quotes, dispatch, carriers, claims, deals, documents, finance, leads, tracking, reports. | TanStack Start · TypeScript · Cloudflare |
 | **Customer Portal** | Self-service portal with real auth flows (login, register, password reset), orders, payments, credit, notifications and support threads. | TanStack Start · TypeScript · Supabase |
 | **JSON Studio** | Developer workbench: tree / table / diff views, `ajv` schema validation, YAML and XML conversion, code generation. | React · Vite · ajv · TypeScript |
 | **Service Desk** | Support operations end to end: tickets, companies, invoices, knowledge base, analytics and a customer-facing portal. | TanStack Start · Supabase |
